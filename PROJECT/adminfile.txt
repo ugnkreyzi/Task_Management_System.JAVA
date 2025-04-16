@@ -1,0 +1,8 @@
+END OF SEMESTER PROJECT - TASK MANAGEMENT SYSTEM 
+
+
+- user errror handling with the username in the database 
+allow the user to create an account  if the user isnt in the database 
+create a signup function 
+stuck button footer at the bottom of the lists so the button wouldnt get stuck in the list
+suer journey for algorithm 
