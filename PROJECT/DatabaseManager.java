@@ -53,22 +53,7 @@ public class DatabaseManager {
         }
     }
 
-    // public static boolean registerUser(String username, String password) {
-    //     try (Connection conn = DriverManager.getConnection(DB_URL, DB_USER, DB_PASSWORD)) {
-    //         String query = "INSERT INTO users (username, password) VALUES (?, ?)";
-    //         PreparedStatement stmt = conn.prepareStatement(query);
-    //         stmt.setString(1, username);
-    //         stmt.setString(2, password);
-    //         stmt.executeUpdate();
-    //         return true;
-    //     } catch (SQLIntegrityConstraintViolationException e) {
-    //         // username already exists
-    //         return false;
-    //     } catch (Exception e) {
-    //         e.printStackTrace();
-    //         return false;
-    //     }
-    // }
+ 
     
 
 
