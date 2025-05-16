@@ -1,0 +1,269 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Java\jdk-23\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2023a\runtime\win64;C:\Program Files\MATLAB\R2023a\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Users\PC\.console-ninja\.bin;C:\Users\PC\scoop\apps\MPV\current;C:\Users\PC\scoop\shims;C:\Users\PC\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\PC\AppData\Local\Programs\Python\Python312\;C:\Users\PC\AppData\Local\Programs\Python\Launcher\;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\ucrt64\bin;C:\ProgramData\Krey\GitHubDesktop\bin;C:\Users\PC\AppData\Local\GitHubDesktop\bin;;C:\Program Files\Java\jdk-23\bin
+JRE paths:	;C:\Program Files\Java\jdk-23\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\MATLAB\R2023a\runtime\win64;C:\Program Files\MATLAB\R2023a\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\dotnet\;C:\Users\PC\.console-ninja\.bin;C:\Users\PC\scoop\apps\MPV\current;C:\Users\PC\scoop\shims;C:\Users\PC\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\PC\AppData\Local\Programs\Python\Python312\;C:\Users\PC\AppData\Local\Programs\Python\Launcher\;C:\Users\PC\AppData\Local\Microsoft\WindowsApps;C:\Users\PC\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\ucrt64\bin;C:\ProgramData\Krey\GitHubDesktop\bin;C:\Users\PC\AppData\Local\GitHubDesktop\bin;;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe"
+Args length:	57/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.008.000
+Java max ver:	1.016.000
+JRE paths:	C:\Program Files\Java\jdk-11\
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (Ignore)
+Ignore:		1.023.000_002
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.8.0 - 16 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.008.000
+Java max ver:	1.016.000
+JRE paths:	C:\Program Files\Java\jdk-11\
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (Ignore)
+Ignore:		1.023.000_002
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.8.0 - 16 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.008.000
+Java max ver:	1.016.000
+JRE paths:	C:\Program Files\Java\jdk-11\
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (Ignore)
+Ignore:		1.023.000_002
+64-bit search:	SOFTWARE\IBM\Java Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+64-bit search:	SOFTWARE\IBM\Java2 Runtime Environment...
+64-bit search:	SOFTWARE\IBM\Java Development Kit...
+Error msg:	This application requires a Java Runtime Environment 1.8.0 - 16 (64-bit)
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-11\
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-11\
+Check launcher:	C:\Program Files\Java\jdk-11\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	 C:\Program Files\Java\jdk-11\bin
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\ C:\Program Files\Java\jdk-11\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jdk-21.0.6+7-jre
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\jdk-21.0.6+7-jre\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	jdk-21.0.6+7-jre
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\jdk-21.0.6+7-jre\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe"
+Args length:	57/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe"
+Args length:	57/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Main class:	loginGUI
+Add classpath:	TaskManager.jar 
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe;TaskManager.jar " loginGUI
+Args length:	89/32768 chars
+Error msg:	An error occurred while starting the application.
+
+
+Version:	3.50
+CmdLine:	C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\PC\Documents\JAVA\PROJECT\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	C:\Users\PC\Documents\JAVA\PROJECT\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Main class:	loginGUI
+Add classpath:	TaskManager.jar 
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-classpath "C:\Users\PC\Documents\JAVA\PROJECT\TaskManager.exe;TaskManager.jar " loginGUI
+Args length:	89/32768 chars
+Error msg:	An error occurred while starting the application.
